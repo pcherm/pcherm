@@ -2,14 +2,14 @@ Personal Website: https://www.uiexpert.dev
 
 LinkedIn: https://www.linkedin.com/in/chermme/
 
-# Peter Chermanowicz - Senior Front-End Developer
+# Piotr Chermanowicz - Senior Front-End Developer
 
 
 ## Great Code. Delivered.
 
 ### Who I Am
 
-Hello. I'm Peter. I specialize in UI and front-end development and design. I've been delivering web and UI solutions since 1996. Over that long period, I've worked with a wide variety of companies and industries on countless digital projects. My goal is to provide high-quality UI and front-end solutions for all kinds of digital projects, from websites to web and mobile apps and e-commerce. I believe in simplicity, knowledge, experience, and focus. I have built my reputation on delivering value and great work. Let's collaborate to bring your digital vision to life.
+Hello. I'm Piotr. I specialize in UI and front-end development and design. I've been delivering web and UI solutions since 1996. Over that long period, I've worked with a wide variety of companies and industries on countless digital projects. My goal is to provide high-quality UI and front-end solutions for all kinds of digital projects, from websites to web and mobile apps and e-commerce. I believe in simplicity, knowledge, experience, and focus. I have built my reputation on delivering value and great work. Let's collaborate to bring your digital vision to life.
 
 ### What I Do
 
@@ -33,6 +33,7 @@ Hello. I'm Peter. I specialize in UI and front-end development and design. I've 
 
 Proud to name some of the clients I've worked with:
 
+- Zuno
 - BOXT
 - Breathe Batteires
 - HSS ProService
@@ -62,6 +63,9 @@ Proud to name some of the clients I've worked with:
 
 ### Projects
 
+- **Zuno Engineering App**: React Native mobile app
+- **BOXT.co.uk**: Next.js web app
+- **Breathe Batteries**: React web app
 - **HSS ProService**: React web app
 - **HSS Hire**: React web app
 - **AnyJunk**: React web app
