@@ -1,6 +1,6 @@
 Personal Website: https://www.uiexpert.dev
 
-LinkedIn: https://www.linkedin.com/in/cherpio/
+LinkedIn: https://www.linkedin.com/in/chermme/
 
 # Piotr Chermanowicz - Senior Front-End Developer
 
@@ -86,5 +86,5 @@ Proud to name some of the clients I've worked with:
 
 ### Contact
 
-Please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/cherpio) or message me directly.
+Please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/chermme) or message me directly.
 
