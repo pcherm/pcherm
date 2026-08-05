@@ -1,4 +1,4 @@
-Personal Website: https://www.uiexpert.dev
+Personal Website: https://www.cherpio.com
 
 LinkedIn: https://www.linkedin.com/in/cherpio/
 
@@ -9,14 +9,30 @@ LinkedIn: https://www.linkedin.com/in/cherpio/
 
 ### Who I Am
 
-Hello. I'm Piotr. I specialize in UI and front-end development and design. I've been delivering web and UI solutions since 1996. Over that long period, I've worked with a wide variety of companies and industries on countless digital projects. My goal is to provide high-quality UI and front-end solutions for all kinds of digital projects, from websites to web and mobile apps and e-commerce. I believe in simplicity, knowledge, experience, and focus. I have built my reputation on delivering value and great work. Let's collaborate to bring your digital vision to life.
+Hello.
+
+I'm Piotr, a frontend developer with 30 years of experience.
+
+I've been delivering web and UI solutions since 1996. Over this time, I've worked with a wide variety of companies and industries, contributing to countless digital projects. I aim to provide high-quality UI and frontend solutions for all kinds of digital projects, from websites to web/mobile apps and e-commerce. I believe in simplicity, knowledge, experience, and focus. I have built my reputation on delivering value and great work.
+
+Let's collaborate to bring your digital vision to life.
 
 ### What I Do
 
 - Web and mobile applications
-- Modern web development
+- Modern frontend development
 - Responsive and adaptive user interfaces
 - UI and web consultancy
+
+### AI Workflows
+
+Working with AI, not around it.
+
+AI is fully embedded in my day-to-day development work. It isn't a novelty I experiment with on the side — it's part of how I plan, write, review, and ship code every day.
+
+I work fluently with context engineering: giving a model the right information, in the right order, at the right time. I run multi-model agentic workflows, delegating to parallel agents, orchestrating them across a task, and picking the right model for each job. I build with MCP servers and custom tooling, and I treat prompts, agent instructions, and project context as first-class parts of a codebase.
+
+What hasn't changed is the judgement. AI accelerates the work; experience still decides what's worth building, and what's worth keeping.
 
 ### Tech Stack
 
